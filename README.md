@@ -1,5 +1,5 @@
 # Programming_Skills_Supplement
-This is the supplementary material for programming skills to apply for MS in Analytics in UChicago.  
+This is the supplementary material for programming skills to apply for my master degree.  
 The three folders here are the code for the three projects.  
   
 ### GCN classification  
